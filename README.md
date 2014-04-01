@@ -1,7 +1,7 @@
 search
 ======
 
-JSON files for search.forjournalism.com
+JSON files for http://search.forjournalism.com/
 
 ## Work with a training organization?
 
